@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SpringVacation", "1.SpringVacation\1.SpringVacation.csproj", "{E5E91214-A35B-410A-8F7B-841E8BB67262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TheHuntingGames", "01.TheHuntingGames\01.TheHuntingGames.csproj", "{37584227-547E-49DD-BCCA-711A2FE52961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E91214-A35B-410A-8F7B-841E8BB67262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E91214-A35B-410A-8F7B-841E8BB67262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E91214-A35B-410A-8F7B-841E8BB67262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E91214-A35B-410A-8F7B-841E8BB67262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37584227-547E-49DD-BCCA-711A2FE52961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37584227-547E-49DD-BCCA-711A2FE52961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37584227-547E-49DD-BCCA-711A2FE52961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37584227-547E-49DD-BCCA-711A2FE52961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE927A3-50DF-4CBA-A270-76B9310F9B55}
+	EndGlobalSection
+EndGlobal
