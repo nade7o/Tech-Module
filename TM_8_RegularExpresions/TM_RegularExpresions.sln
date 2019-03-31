@@ -11,21 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Substring", "03.Substrin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.TextFilter", "04.TextFilter\04.TextFilter.csproj", "{0B8102D2-8979-4C78-A7AC-F3E86F500016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DigitLettersOthers", "05.DigitLettersOthers\05.DigitLettersOthers.csproj", "{1EF735FB-98C6-4763-B4CC-B5AEF2DAF96E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DigitLettersOthers", "05.DigitLettersOthers\05.DigitLettersOthers.csproj", "{1EF735FB-98C6-4763-B4CC-B5AEF2DAF96E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ValidUsername", "06.ValidUsername\06.ValidUsername.csproj", "{C4C271C6-7234-4B95-B030-50DA4DC5A6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ValidUsername", "06.ValidUsername\06.ValidUsername.csproj", "{C4C271C6-7234-4B95-B030-50DA4DC5A6C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CharacterMultiplier", "07.CharacterMultiplier\07.CharacterMultiplier.csproj", "{C348960C-6C11-4A8D-A29E-F617C2CAB4FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.CharacterMultiplier", "07.CharacterMultiplier\07.CharacterMultiplier.csproj", "{C348960C-6C11-4A8D-A29E-F617C2CAB4FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ExtractFile", "08.ExtractFile\08.ExtractFile.csproj", "{9EED08F1-853D-4962-AD45-F59F1E8A7ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.ExtractFile", "08.ExtractFile\08.ExtractFile.csproj", "{9EED08F1-853D-4962-AD45-F59F1E8A7ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CaesarCipher", "09.CaesarCipher\09.CaesarCipher.csproj", "{70F3F9F0-D2E0-4F49-B5D9-9B5C1817AF23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.CaesarCipher", "09.CaesarCipher\09.CaesarCipher.csproj", "{70F3F9F0-D2E0-4F49-B5D9-9B5C1817AF23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplyBigNumbers", "10.MultiplyBigNumbers\10.MultiplyBigNumbers.csproj", "{6403EC65-151F-41AD-8E73-EA9DFD8195D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.MultiplyBigNumbers", "10.MultiplyBigNumbers\10.MultiplyBigNumbers.csproj", "{6403EC65-151F-41AD-8E73-EA9DFD8195D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ReplaceRepeatingChars", "11.ReplaceRepeatingChars\11.ReplaceRepeatingChars.csproj", "{280AF516-2C7F-4E58-8E61-B2A4F4130B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ReplaceRepeatingChars", "11.ReplaceRepeatingChars\11.ReplaceRepeatingChars.csproj", "{280AF516-2C7F-4E58-8E61-B2A4F4130B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.StringExplosion", "12.StringExplosion\12.StringExplosion.csproj", "{A2527F96-1B2A-46B4-83B3-BF7F6F14F008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.StringExplosion", "12.StringExplosion\12.StringExplosion.csproj", "{A2527F96-1B2A-46B4-83B3-BF7F6F14F008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ExtractPersonalInfo", "13.ExtractPersonalInfo\13.ExtractPersonalInfo.csproj", "{3E155578-450A-462D-9C96-824B77AF0009}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{A2527F96-1B2A-46B4-83B3-BF7F6F14F008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2527F96-1B2A-46B4-83B3-BF7F6F14F008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2527F96-1B2A-46B4-83B3-BF7F6F14F008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E155578-450A-462D-9C96-824B77AF0009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E155578-450A-462D-9C96-824B77AF0009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E155578-450A-462D-9C96-824B77AF0009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E155578-450A-462D-9C96-824B77AF0009}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
