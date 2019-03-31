@@ -11,7 +11,7 @@ namespace _01.ExtractPersonalInfo
             string age = string.Empty;
             for (int i = 0; i < n; i++)
             {
-                // Here is a name @George| and an age #18*
+                // Here is a name @George| and an age #18* - 15 - 22
                 string line = Console.ReadLine();
                 int startIndexName = line.IndexOf('@');
                 int endIndexName = line.IndexOf('|');
