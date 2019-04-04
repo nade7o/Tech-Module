@@ -1,12 +1,21 @@
 ﻿using System;
 
-namespace _01.ReverseString
+namespace _01.Reverse
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string line = string.Empty;
+            while ((line = Console.ReadLine()) != "end")
+            {
+                string reversed = string.Empty;
+                for (int i = line.Length - 1; i >= 0; i--)
+                {
+                    reversed += line[i];
+                }
+                Console.WriteLine($"{line} = {reversed}");
+            }
         }
     }
 }
