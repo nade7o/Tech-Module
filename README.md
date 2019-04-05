@@ -1,5 +1,5 @@
-Tech-Module
-Tech module of C# programming course
+##Tech-Module
+##Tech module of C# programming course
 TM_1_Бasic_syntax_LAB
 TM_1_Basic_syntax_Exercise
 TM_2_DataTypesAndVariables
