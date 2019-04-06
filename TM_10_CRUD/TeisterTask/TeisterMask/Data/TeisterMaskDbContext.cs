@@ -13,6 +13,7 @@ namespace TeisterMask.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=RELWS0180\SQLEXPRESS;Database=TeisterMaskDb;Integrated Security=True;");
+            optionsBuilder.UseSqlServer(@"Server=LAPTOP-DAP35E42\SQLEXPRESS;Database=TeisterMaskDb;Integrated Security=True;");
 
         }
     }
