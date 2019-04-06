@@ -14,9 +14,9 @@ TM_4_Lists_Exercise
 
 TM_5_Methods_Exercise
 
-TM_DemoMidExam2019
+TM_DemoMidExam_02.03.2019
 
-TM_MidExam_March2019
+TM_MidExam_10.03.2019
 
 TM_6_ObjectsАndClasses
 
@@ -29,3 +29,5 @@ TM_9_WebApp
 TM_10_CRUD Operations
 
 TM_FinalExams_2018 (for preparations)
+
+TM_DemoFinalExam_06.04.2019 
