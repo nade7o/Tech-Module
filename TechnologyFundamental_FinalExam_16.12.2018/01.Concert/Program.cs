@@ -56,7 +56,12 @@ namespace _01.Concert
             foreach (var band in bandInfo.Where(x => x.Key.Equals(input)))
             {
                 Console.WriteLine(band.Key);
-                Console.WriteLine(string.Join(Environment.NewLine, band.Value.Select(x => $"=> {x}")));
+                //Console.WriteLine(string.Join(Environment.NewLine, band.Value.Select(x => $"=> {x}")));
+
+                foreach (var member in band.Value)
+                {
+                    Console.WriteLine($"=> {member}");
+                }
             }
         }
     }
